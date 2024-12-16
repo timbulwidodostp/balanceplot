@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'balanceplot': Plots of Imbalance Across Groups of a Categorical Independent Variable Use balanceplot With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f balanceplot.ado
+f balanceplot.sthlp
+f coefplot.ado
+f coefplot.sthlp
