@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p balanceplot Plots of Imbalance Across Groups of a Categorical Independent Variable Use balanceplot With STATA 18
