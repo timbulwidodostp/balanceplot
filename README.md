@@ -1,6 +1,8 @@
 # balanceplot
 Plots of Imbalance Across Groups of a Categorical Independent Variable Use balanceplot With STATA 18
 
+https://www.youtube.com/watch?v=rjVhcrmzcjs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
